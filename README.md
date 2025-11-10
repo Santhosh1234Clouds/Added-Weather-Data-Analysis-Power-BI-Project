@@ -1,2 +1,3 @@
-# Added-Weather-Data-Analysis-Power-BI-Project
-Uploaded monthly weather data (Jan–Apr 2024) CSVs and Power BI dashboard file for data analysis and visualization.
+# Weather Data Analysis | Power BI Dashboard
+
+This project is an interactive Power BI dashboard designed to analyze multi-year weather data (2021–2024). It visualizes key metrics like temperature trends, rainfall variations, and seasonal changes across different regions, helping users easily explore and understand climate patterns.
